@@ -6,4 +6,8 @@ Vision-based autonomous navigation is pivotal in mobile robot technology, involv
 
 ## Contribution #1
 
+![](https://github.com/SepMJ/sepmj.github.io/blob/main/images/sim2real.png)
+
 ## Contribution #2
+
+![](https://github.com/SepMJ/sepmj.github.io/blob/main/images/RL%2BCyclegan.png)
