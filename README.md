@@ -10,8 +10,5 @@ Vision-based autonomous navigation is pivotal in mobile robot technology, involv
 
 The framework diagram of the Sim2Real platform.Through the Sim2Real migration platform, we can effectively collect real environment data, such as sensor readings, environment layout, and dynamic elements.
 
-## Contribution #2
+## 
 
-![](https://github.com/SepMJ/sepmj.github.io/blob/main/images/RL%2BCyclegan.png)
-
-The training process of integrating RL and CycleGAN.In this section, we will generate more  effective sample data related to the decision-making of the intelligent agent based on the domain adaptation method, integrating PPO and CycleGAN, effectively improving the performance of the intelligent agent in the simulation and real environment, and narrowing the gap between the simulation and the real environment.
